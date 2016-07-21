@@ -1,0 +1,22 @@
+.bloque{
+	display: inline-block;
+	height: 200px;
+	background: #FFFF00;
+	font-size: 32px;
+	width: 400px;
+	height:180px;
+	margin-right: 20px;
+	padding-left: 15px;
+	padding-top: 15px;
+}
+.content{
+	display: inline-block;
+	height: 200px;
+	background:#FF0000;
+	font-size: 32px;
+	width: 400px;
+	height:180px;
+	margin-right: 20px;
+	padding-left: 15px;
+	padding-top: 15px;
+}

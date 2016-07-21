@@ -1,0 +1,21 @@
+.bloque{
+	display: block;
+	background: #FFFF00;
+	font-size: 32px;
+	margin: 10px;
+	width: 400px;
+	height:150px;
+	padding-left: 15px;
+	padding-top: 15px;
+
+}
+.content{
+	display:block; 
+	background:#FF0000;
+	font-size: 32px;
+	margin:10px;
+	width: 400px;
+	height: 150px;
+	padding-left: 15px;
+	padding-top: 15px;
+}

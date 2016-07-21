@@ -1,0 +1,12 @@
+.bloque{
+	display: block;
+	height: 200px;
+	background: #FFFF00;
+	font-size: 32px;
+}
+.content{
+	display: block;
+	height: 200px;
+	background:#FF0000;
+	font-size: 32px;
+}
